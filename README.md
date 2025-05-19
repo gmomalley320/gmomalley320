@@ -1,4 +1,4 @@
-- Hello, I’m Grace!
+ Hello, I’m Grace!
 - My pronouns are she/her
 - I'm currently a graduate student at Pitt getting a Master's in Public and International Affairs focusing on Security and Intelligence. I'm also getting a minor in Cybersecurity, Law, and Policy.
 - I'm currently learning how to program with Python!
